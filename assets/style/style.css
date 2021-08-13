@@ -1,0 +1,30 @@
+.container {
+    margin-bottom: 100px;
+}
+.top-banner {
+    background-color: #FCEAE8 !important;
+    border-radius: 10px;
+    padding: 20px
+}
+.cat {
+    border-radius: 10px !important;
+    padding: 5px 20px !important;
+}
+.shoes,
+.bag
+ {
+    box-shadow: 5px 5px 10px lightgrey !important;
+    border-radius: 10px !important;
+}
+.subscribe {
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+.main-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
